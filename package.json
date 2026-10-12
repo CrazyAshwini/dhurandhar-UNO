@@ -1,0 +1,12 @@
+{
+  "name": "dhurandhar-uno",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dhurandhar UNO, an unofficial 2–10 player LAN and online card-game prototype with practice bots",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/game.test.js"
+  },
+  "engines": {"node": ">=18"},
+  "license": "UNLICENSED"
+}
